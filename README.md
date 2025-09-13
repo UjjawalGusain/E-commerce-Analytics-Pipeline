@@ -1,5 +1,9 @@
 # E-commerce Analytics Pipeline
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ec173501-09e6-4319-846e-04586fa843d9" alt="unigit_src_image" width="512" height="512" />
+</div>
+
 This project demonstrates the development of a scalable and automated data engineering pipeline using PySpark and Delta Lake on Databricks. The pipeline processes raw e-commerce event logs and transforms them into structured dimensional and fact tables suitable for analytical queries and business intelligence reporting.
 
 ---
